@@ -293,10 +293,24 @@ CACHE_KEYS:
     PROJECT_NAME: EXFileSystem
     SPECS:
       - EXFileSystem (8.0.0)
+  EXFirebaseAnalytics:
+    BUILD_SETTINGS_CHECKSUM:
+      EXFirebaseAnalytics: d7af306bcc1c0c50839196b3dfd1b695
+    CHECKSUM: b25348593519874028adf4afb9e5e9210add225d
+    FILES:
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics+JSON.h"
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics+JSON.m"
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.h"
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.m"
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalyticsAppDelegate.h"
+      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalyticsAppDelegate.m"
+    PROJECT_NAME: EXFirebaseAnalytics
+    SPECS:
+      - EXFirebaseAnalytics (3.0.0)
   EXFirebaseCore:
     BUILD_SETTINGS_CHECKSUM:
       EXFirebaseCore: 558caeb4b0121e43433c08b1594d5793
-    CHECKSUM: 47ac8651a065a31c643373ec72591c329a000ef6
+    CHECKSUM: 4e0976590135563e26af5050916879d5ee218f1b
     FILES:
       - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore+FIROptions.h"
       - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore+FIROptions.m"
@@ -850,12 +864,12 @@ CACHE_KEYS:
       - nanopb/encode (0.3.9011)
   Pods-BareExpo:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 455d1de294ca54536d815c9e827b6dcb
-      Release: 455d1de294ca54536d815c9e827b6dcb
+      Debug: 30fd8a475f0876461480ce87ba0632c6
+      Release: 30fd8a475f0876461480ce87ba0632c6
   Pods-BareExpoTests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 3be3535953dbb48152a059a6fbea9c05
-      Release: 3be3535953dbb48152a059a6fbea9c05
+      Debug: 1386be90e41f35495b219d0c0130e843
+      Release: 1386be90e41f35495b219d0c0130e843
   RCTRequired:
     BUILD_SETTINGS_CHECKSUM:
       RCTRequired: 4dfdb65505e509cfb5f433fb54943666
