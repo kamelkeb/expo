@@ -295,15 +295,11 @@ CACHE_KEYS:
       - EXFileSystem (8.0.0)
   EXFirebaseAnalytics:
     BUILD_SETTINGS_CHECKSUM:
-      EXFirebaseAnalytics: d7af306bcc1c0c50839196b3dfd1b695
-    CHECKSUM: b25348593519874028adf4afb9e5e9210add225d
+      EXFirebaseAnalytics: cc401ee0180ae21c92b2d4a83982840d
+    CHECKSUM: b9efb5317c071cb10905d5a82734407e8fc7fd43
     FILES:
-      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics+JSON.h"
-      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics+JSON.m"
       - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.h"
       - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.m"
-      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalyticsAppDelegate.h"
-      - "../../../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalyticsAppDelegate.m"
     PROJECT_NAME: EXFirebaseAnalytics
     SPECS:
       - EXFirebaseAnalytics (3.0.0)
@@ -316,6 +312,7 @@ CACHE_KEYS:
       - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore+FIROptions.m"
       - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore.h"
       - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore.m"
+      - "../../../../packages/expo-firebase-core/ios/EXFirebaseCore/UMFirebaseCoreInterface.h"
     PROJECT_NAME: EXFirebaseCore
     SPECS:
       - EXFirebaseCore (1.0.0)
