@@ -6456,15 +6456,13 @@ CACHE_KEYS:
       - EXFacebook (8.0.0)
   EXFaceDetector:
     BUILD_SETTINGS_CHECKSUM:
-      EXFaceDetector: cbfbe89add42e7b69ddc056c2e62d41d
-    CHECKSUM: 0140a1958708b0cb65e9102962dbebd7d9e061b2
+      EXFaceDetector: 2556b81827c5fb54b4ea8aa62e15d21f
+    CHECKSUM: 34d3d2c4031e1a45f965c7102f3642dda140914e
     FILES:
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXCSBufferOrientationCalculator.h"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXCSBufferOrientationCalculator.m"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetector.h"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetector.m"
-      - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetectorAppDelegate.h"
-      - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetectorAppDelegate.m"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetectorManager.h"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetectorManager.m"
       - "../../packages/expo-face-detector/ios/EXFaceDetector/EXFaceDetectorManagerProvider.h"
@@ -6496,15 +6494,26 @@ CACHE_KEYS:
     PROJECT_NAME: EXFileSystem
     SPECS:
       - EXFileSystem (8.0.0)
+  EXFirebaseAnalytics:
+    BUILD_SETTINGS_CHECKSUM:
+      EXFirebaseAnalytics: 0ff060930264d17d39eb55bf7723fdb8
+    CHECKSUM: b9efb5317c071cb10905d5a82734407e8fc7fd43
+    FILES:
+      - "../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.h"
+      - "../../packages/expo-firebase-analytics/ios/EXFirebaseAnalytics/EXFirebaseAnalytics.m"
+    PROJECT_NAME: EXFirebaseAnalytics
+    SPECS:
+      - EXFirebaseAnalytics (3.0.0)
   EXFirebaseCore:
     BUILD_SETTINGS_CHECKSUM:
       EXFirebaseCore: 1d808549b6223d57e1cc0b09101db157
-    CHECKSUM: 47ac8651a065a31c643373ec72591c329a000ef6
+    CHECKSUM: 4e0976590135563e26af5050916879d5ee218f1b
     FILES:
       - "../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore+FIROptions.h"
       - "../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore+FIROptions.m"
       - "../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore.h"
       - "../../packages/expo-firebase-core/ios/EXFirebaseCore/EXFirebaseCore.m"
+      - "../../packages/expo-firebase-core/ios/EXFirebaseCore/UMFirebaseCoreInterface.h"
     PROJECT_NAME: EXFirebaseCore
     SPECS:
       - EXFirebaseCore (1.0.0)
@@ -7171,16 +7180,16 @@ CACHE_KEYS:
       - nanopb/encode (0.3.9011)
   Pods-Exponent:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 5437df70bf0d9cd0b76afe5ac377c7a7
-      Release: 5437df70bf0d9cd0b76afe5ac377c7a7
+      Debug: 7a6ff52af1764a58ec153d809d21d752
+      Release: 7a6ff52af1764a58ec153d809d21d752
   Pods-ExponentIntegrationTests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: fb38bd7f1d4e2ec5fee94eca9a4ccf6b
-      Release: fb38bd7f1d4e2ec5fee94eca9a4ccf6b
+      Debug: 632fbd832e1d15cc5404118e4cd779e4
+      Release: 632fbd832e1d15cc5404118e4cd779e4
   Pods-Tests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: fb38bd7f1d4e2ec5fee94eca9a4ccf6b
-      Release: fb38bd7f1d4e2ec5fee94eca9a4ccf6b
+      Debug: 632fbd832e1d15cc5404118e4cd779e4
+      Release: 632fbd832e1d15cc5404118e4cd779e4
   Protobuf:
     BUILD_SETTINGS_CHECKSUM:
       Protobuf: e9ec876cfd5ece357978b5d515d5282c
