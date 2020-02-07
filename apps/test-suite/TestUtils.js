@@ -55,11 +55,10 @@ export function getTestModules() {
 
   if (Platform.OS === 'android') {
     modules.push(require('./tests/JSC'));
-  } else if (Platform.OS === 'ios') {
-    modules.push(require('./tests/FirebaseAnalytics'));
   }
 
   modules.push(require('./tests/FirebaseCore'));
+  modules.push(require('./tests/FirebaseAnalytics'));
 
   if (global.DETOX) {
     modules.push(
